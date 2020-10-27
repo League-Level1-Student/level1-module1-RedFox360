@@ -31,6 +31,7 @@ public class RaceCar {
 		return this.positionInRace;
 	}
 	
+	
 	public String getBrand() {
 		return this.brand;
 	}
